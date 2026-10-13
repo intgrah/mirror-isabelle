@@ -1,28 +1,13 @@
 /*  Author:     Makarius
 
-UTF-8-Isabelle symbol encoding: for use inside VSCode.
+UTF-8-Isabelle symbol encoding for the extension's file-system provider.
 */
 
 "use strict";
 
 
-/* VSCode interfaces */
-
-export interface Options {
-  stripBOM?: boolean;
-  addBOM?: boolean;
-  defaultEncoding?: string;
-}
-
-export interface IDecoderStream {
-  write(input: Uint8Array): string;
-  end(): string | undefined;
-}
-
-export interface IEncoderStream {
-  write(input: string): Uint8Array;
-  end(): Uint8Array | undefined;
-}
+import * as Symbol from "./symbol"
+import { TextDecoder, TextEncoder } from "util"
 
 
 /* ASCII characters */
@@ -163,42 +148,16 @@ export class Symbol_Codes {
   }
 }
 
-const symbol_codes: Symbol_Codes = new Symbol_Codes([/*symbols*/]);
+const symbol_codes = new Symbol_Codes(
+  Symbol.symbols.entries.flatMap(entry =>
+    entry.code === undefined ? [] : [{ symbol: entry.symbol, code: entry.code }]))
 
-
-/* main API */
-
-export const ENCODING = 'utf8isabelle';
-export const LABEL = 'UTF-8-Isabelle';
-
-export function getDecoder(): IDecoderStream {
-  const utf8_decoder = new TextDecoder();
-  const buffer = new String_Buffer();
-  return {
-    write(input: Uint8Array): string {
-      buffer.add(utf8_decoder.decode(input, { stream: true }));
-      return '';
-    },
-    end(): string | undefined {
-      buffer.add(utf8_decoder.decode());
-      const s = buffer.end();
-      return symbol_codes.recode(s, false);
-    }
-  };
+export function decode(input: Uint8Array): Uint8Array {
+  const text = new TextDecoder().decode(input)
+  return new TextEncoder().encode(symbol_codes.recode(text, false))
 }
 
-export function getEncoder(): IEncoderStream {
-  const utf8_encoder = new TextEncoder();
-  const empty = new Uint8Array(0);
-  const buffer = new String_Buffer();
-  return {
-    write(input: string): Uint8Array {
-      buffer.add(input);
-      return empty;
-    },
-    end(): Uint8Array | undefined {
-      const s = buffer.end();
-      return utf8_encoder.encode(symbol_codes.recode(s, true));
-    }
-  }
+export function encode(input: Uint8Array): Uint8Array {
+  const text = new TextDecoder().decode(input)
+  return new TextEncoder().encode(symbol_codes.recode(text, true))
 }

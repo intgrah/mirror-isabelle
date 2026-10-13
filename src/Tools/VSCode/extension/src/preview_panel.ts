@@ -10,6 +10,7 @@ import { LanguageClient } from "vscode-languageclient/node"
 
 import * as LSP from "./lsp"
 import * as VSCode_Lib from "./vscode_lib"
+import * as Symbol_Files from "./symbol_files"
 
 
 let language_client: LanguageClient
@@ -49,7 +50,7 @@ export function request(uri?: Uri, split: boolean = false) {
   const document_uri = uri || window.activeTextEditor.document.uri
   if (language_client) {
     language_client.sendNotification(LSP.preview_request_type,
-      { uri: document_uri.toString(),
+      { uri: Symbol_Files.protocol_uri(document_uri),
         column: VSCode_Lib.adjacent_editor_column(window.activeTextEditor, split) })
   }
 }

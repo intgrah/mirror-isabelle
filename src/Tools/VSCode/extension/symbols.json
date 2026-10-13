@@ -1,0 +1,5852 @@
+[
+  {
+    "symbol": "\\<zero>",
+    "name": "zero",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 120812,
+    "decoded": "𝟬"
+  },
+  {
+    "symbol": "\\<one>",
+    "name": "one",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 120813,
+    "decoded": "𝟭"
+  },
+  {
+    "symbol": "\\<two>",
+    "name": "two",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 120814,
+    "decoded": "𝟮"
+  },
+  {
+    "symbol": "\\<three>",
+    "name": "three",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 120815,
+    "decoded": "𝟯"
+  },
+  {
+    "symbol": "\\<four>",
+    "name": "four",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 120816,
+    "decoded": "𝟰"
+  },
+  {
+    "symbol": "\\<five>",
+    "name": "five",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 120817,
+    "decoded": "𝟱"
+  },
+  {
+    "symbol": "\\<six>",
+    "name": "six",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 120818,
+    "decoded": "𝟲"
+  },
+  {
+    "symbol": "\\<seven>",
+    "name": "seven",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 120819,
+    "decoded": "𝟳"
+  },
+  {
+    "symbol": "\\<eight>",
+    "name": "eight",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 120820,
+    "decoded": "𝟴"
+  },
+  {
+    "symbol": "\\<nine>",
+    "name": "nine",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 120821,
+    "decoded": "𝟵"
+  },
+  {
+    "symbol": "\\<A>",
+    "name": "A",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119964,
+    "decoded": "𝒜"
+  },
+  {
+    "symbol": "\\<B>",
+    "name": "B",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8492,
+    "decoded": "ℬ"
+  },
+  {
+    "symbol": "\\<C>",
+    "name": "C",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119966,
+    "decoded": "𝒞"
+  },
+  {
+    "symbol": "\\<D>",
+    "name": "D",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119967,
+    "decoded": "𝒟"
+  },
+  {
+    "symbol": "\\<E>",
+    "name": "E",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8496,
+    "decoded": "ℰ"
+  },
+  {
+    "symbol": "\\<F>",
+    "name": "F",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8497,
+    "decoded": "ℱ"
+  },
+  {
+    "symbol": "\\<G>",
+    "name": "G",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119970,
+    "decoded": "𝒢"
+  },
+  {
+    "symbol": "\\<H>",
+    "name": "H",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8459,
+    "decoded": "ℋ"
+  },
+  {
+    "symbol": "\\<I>",
+    "name": "I",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8464,
+    "decoded": "ℐ"
+  },
+  {
+    "symbol": "\\<J>",
+    "name": "J",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119973,
+    "decoded": "𝒥"
+  },
+  {
+    "symbol": "\\<K>",
+    "name": "K",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119974,
+    "decoded": "𝒦"
+  },
+  {
+    "symbol": "\\<L>",
+    "name": "L",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8466,
+    "decoded": "ℒ"
+  },
+  {
+    "symbol": "\\<M>",
+    "name": "M",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8499,
+    "decoded": "ℳ"
+  },
+  {
+    "symbol": "\\<N>",
+    "name": "N",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119977,
+    "decoded": "𝒩"
+  },
+  {
+    "symbol": "\\<O>",
+    "name": "O",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119978,
+    "decoded": "𝒪"
+  },
+  {
+    "symbol": "\\<P>",
+    "name": "P",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119979,
+    "decoded": "𝒫"
+  },
+  {
+    "symbol": "\\<Q>",
+    "name": "Q",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119980,
+    "decoded": "𝒬"
+  },
+  {
+    "symbol": "\\<R>",
+    "name": "R",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8475,
+    "decoded": "ℛ"
+  },
+  {
+    "symbol": "\\<S>",
+    "name": "S",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119982,
+    "decoded": "𝒮"
+  },
+  {
+    "symbol": "\\<T>",
+    "name": "T",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119983,
+    "decoded": "𝒯"
+  },
+  {
+    "symbol": "\\<U>",
+    "name": "U",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119984,
+    "decoded": "𝒰"
+  },
+  {
+    "symbol": "\\<V>",
+    "name": "V",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119985,
+    "decoded": "𝒱"
+  },
+  {
+    "symbol": "\\<W>",
+    "name": "W",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119986,
+    "decoded": "𝒲"
+  },
+  {
+    "symbol": "\\<X>",
+    "name": "X",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119987,
+    "decoded": "𝒳"
+  },
+  {
+    "symbol": "\\<Y>",
+    "name": "Y",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119988,
+    "decoded": "𝒴"
+  },
+  {
+    "symbol": "\\<Z>",
+    "name": "Z",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 119989,
+    "decoded": "𝒵"
+  },
+  {
+    "symbol": "\\<a>",
+    "name": "a",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120250,
+    "decoded": "𝖺"
+  },
+  {
+    "symbol": "\\<b>",
+    "name": "b",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120251,
+    "decoded": "𝖻"
+  },
+  {
+    "symbol": "\\<c>",
+    "name": "c",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120252,
+    "decoded": "𝖼"
+  },
+  {
+    "symbol": "\\<d>",
+    "name": "d",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120253,
+    "decoded": "𝖽"
+  },
+  {
+    "symbol": "\\<e>",
+    "name": "e",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120254,
+    "decoded": "𝖾"
+  },
+  {
+    "symbol": "\\<f>",
+    "name": "f",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120255,
+    "decoded": "𝖿"
+  },
+  {
+    "symbol": "\\<g>",
+    "name": "g",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120256,
+    "decoded": "𝗀"
+  },
+  {
+    "symbol": "\\<h>",
+    "name": "h",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120257,
+    "decoded": "𝗁"
+  },
+  {
+    "symbol": "\\<i>",
+    "name": "i",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120258,
+    "decoded": "𝗂"
+  },
+  {
+    "symbol": "\\<j>",
+    "name": "j",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120259,
+    "decoded": "𝗃"
+  },
+  {
+    "symbol": "\\<k>",
+    "name": "k",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120260,
+    "decoded": "𝗄"
+  },
+  {
+    "symbol": "\\<l>",
+    "name": "l",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120261,
+    "decoded": "𝗅"
+  },
+  {
+    "symbol": "\\<m>",
+    "name": "m",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120262,
+    "decoded": "𝗆"
+  },
+  {
+    "symbol": "\\<n>",
+    "name": "n",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120263,
+    "decoded": "𝗇"
+  },
+  {
+    "symbol": "\\<o>",
+    "name": "o",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120264,
+    "decoded": "𝗈"
+  },
+  {
+    "symbol": "\\<p>",
+    "name": "p",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120265,
+    "decoded": "𝗉"
+  },
+  {
+    "symbol": "\\<q>",
+    "name": "q",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120266,
+    "decoded": "𝗊"
+  },
+  {
+    "symbol": "\\<r>",
+    "name": "r",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120267,
+    "decoded": "𝗋"
+  },
+  {
+    "symbol": "\\<s>",
+    "name": "s",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120268,
+    "decoded": "𝗌"
+  },
+  {
+    "symbol": "\\<t>",
+    "name": "t",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120269,
+    "decoded": "𝗍"
+  },
+  {
+    "symbol": "\\<u>",
+    "name": "u",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120270,
+    "decoded": "𝗎"
+  },
+  {
+    "symbol": "\\<v>",
+    "name": "v",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120271,
+    "decoded": "𝗏"
+  },
+  {
+    "symbol": "\\<w>",
+    "name": "w",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120272,
+    "decoded": "𝗐"
+  },
+  {
+    "symbol": "\\<x>",
+    "name": "x",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120273,
+    "decoded": "𝗑"
+  },
+  {
+    "symbol": "\\<y>",
+    "name": "y",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120274,
+    "decoded": "𝗒"
+  },
+  {
+    "symbol": "\\<z>",
+    "name": "z",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120275,
+    "decoded": "𝗓"
+  },
+  {
+    "symbol": "\\<AA>",
+    "name": "AA",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120068,
+    "decoded": "𝔄"
+  },
+  {
+    "symbol": "\\<BB>",
+    "name": "BB",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120069,
+    "decoded": "𝔅"
+  },
+  {
+    "symbol": "\\<CC>",
+    "name": "CC",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8493,
+    "decoded": "ℭ"
+  },
+  {
+    "symbol": "\\<DD>",
+    "name": "DD",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120071,
+    "decoded": "𝔇"
+  },
+  {
+    "symbol": "\\<EE>",
+    "name": "EE",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120072,
+    "decoded": "𝔈"
+  },
+  {
+    "symbol": "\\<FF>",
+    "name": "FF",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120073,
+    "decoded": "𝔉"
+  },
+  {
+    "symbol": "\\<GG>",
+    "name": "GG",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120074,
+    "decoded": "𝔊"
+  },
+  {
+    "symbol": "\\<HH>",
+    "name": "HH",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8460,
+    "decoded": "ℌ"
+  },
+  {
+    "symbol": "\\<II>",
+    "name": "II",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8465,
+    "decoded": "ℑ"
+  },
+  {
+    "symbol": "\\<JJ>",
+    "name": "JJ",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120077,
+    "decoded": "𝔍"
+  },
+  {
+    "symbol": "\\<KK>",
+    "name": "KK",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120078,
+    "decoded": "𝔎"
+  },
+  {
+    "symbol": "\\<LL>",
+    "name": "LL",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120079,
+    "decoded": "𝔏"
+  },
+  {
+    "symbol": "\\<MM>",
+    "name": "MM",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120080,
+    "decoded": "𝔐"
+  },
+  {
+    "symbol": "\\<NN>",
+    "name": "NN",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120081,
+    "decoded": "𝔑"
+  },
+  {
+    "symbol": "\\<OO>",
+    "name": "OO",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120082,
+    "decoded": "𝔒"
+  },
+  {
+    "symbol": "\\<PP>",
+    "name": "PP",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120083,
+    "decoded": "𝔓"
+  },
+  {
+    "symbol": "\\<QQ>",
+    "name": "QQ",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120084,
+    "decoded": "𝔔"
+  },
+  {
+    "symbol": "\\<RR>",
+    "name": "RR",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8476,
+    "decoded": "ℜ"
+  },
+  {
+    "symbol": "\\<SS>",
+    "name": "SS",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120086,
+    "decoded": "𝔖"
+  },
+  {
+    "symbol": "\\<TT>",
+    "name": "TT",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120087,
+    "decoded": "𝔗"
+  },
+  {
+    "symbol": "\\<UU>",
+    "name": "UU",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120088,
+    "decoded": "𝔘"
+  },
+  {
+    "symbol": "\\<VV>",
+    "name": "VV",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120089,
+    "decoded": "𝔙"
+  },
+  {
+    "symbol": "\\<WW>",
+    "name": "WW",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120090,
+    "decoded": "𝔚"
+  },
+  {
+    "symbol": "\\<XX>",
+    "name": "XX",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120091,
+    "decoded": "𝔛"
+  },
+  {
+    "symbol": "\\<YY>",
+    "name": "YY",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120092,
+    "decoded": "𝔜"
+  },
+  {
+    "symbol": "\\<ZZ>",
+    "name": "ZZ",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8488,
+    "decoded": "ℨ"
+  },
+  {
+    "symbol": "\\<aa>",
+    "name": "aa",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120094,
+    "decoded": "𝔞"
+  },
+  {
+    "symbol": "\\<bb>",
+    "name": "bb",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120095,
+    "decoded": "𝔟"
+  },
+  {
+    "symbol": "\\<cc>",
+    "name": "cc",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120096,
+    "decoded": "𝔠"
+  },
+  {
+    "symbol": "\\<dd>",
+    "name": "dd",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120097,
+    "decoded": "𝔡"
+  },
+  {
+    "symbol": "\\<ee>",
+    "name": "ee",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120098,
+    "decoded": "𝔢"
+  },
+  {
+    "symbol": "\\<ff>",
+    "name": "ff",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120099,
+    "decoded": "𝔣"
+  },
+  {
+    "symbol": "\\<gg>",
+    "name": "gg",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120100,
+    "decoded": "𝔤"
+  },
+  {
+    "symbol": "\\<hh>",
+    "name": "hh",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120101,
+    "decoded": "𝔥"
+  },
+  {
+    "symbol": "\\<ii>",
+    "name": "ii",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120102,
+    "decoded": "𝔦"
+  },
+  {
+    "symbol": "\\<jj>",
+    "name": "jj",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120103,
+    "decoded": "𝔧"
+  },
+  {
+    "symbol": "\\<kk>",
+    "name": "kk",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120104,
+    "decoded": "𝔨"
+  },
+  {
+    "symbol": "\\<ll>",
+    "name": "ll",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120105,
+    "decoded": "𝔩"
+  },
+  {
+    "symbol": "\\<mm>",
+    "name": "mm",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120106,
+    "decoded": "𝔪"
+  },
+  {
+    "symbol": "\\<nn>",
+    "name": "nn",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120107,
+    "decoded": "𝔫"
+  },
+  {
+    "symbol": "\\<oo>",
+    "name": "oo",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120108,
+    "decoded": "𝔬"
+  },
+  {
+    "symbol": "\\<pp>",
+    "name": "pp",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120109,
+    "decoded": "𝔭"
+  },
+  {
+    "symbol": "\\<qq>",
+    "name": "qq",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120110,
+    "decoded": "𝔮"
+  },
+  {
+    "symbol": "\\<rr>",
+    "name": "rr",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120111,
+    "decoded": "𝔯"
+  },
+  {
+    "symbol": "\\<ss>",
+    "name": "ss",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120112,
+    "decoded": "𝔰"
+  },
+  {
+    "symbol": "\\<tt>",
+    "name": "tt",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120113,
+    "decoded": "𝔱"
+  },
+  {
+    "symbol": "\\<uu>",
+    "name": "uu",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120114,
+    "decoded": "𝔲"
+  },
+  {
+    "symbol": "\\<vv>",
+    "name": "vv",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120115,
+    "decoded": "𝔳"
+  },
+  {
+    "symbol": "\\<ww>",
+    "name": "ww",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120116,
+    "decoded": "𝔴"
+  },
+  {
+    "symbol": "\\<xx>",
+    "name": "xx",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120117,
+    "decoded": "𝔵"
+  },
+  {
+    "symbol": "\\<yy>",
+    "name": "yy",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120118,
+    "decoded": "𝔶"
+  },
+  {
+    "symbol": "\\<zz>",
+    "name": "zz",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120119,
+    "decoded": "𝔷"
+  },
+  {
+    "symbol": "\\<alpha>",
+    "name": "alpha",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 945,
+    "decoded": "α"
+  },
+  {
+    "symbol": "\\<beta>",
+    "name": "beta",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 946,
+    "decoded": "β"
+  },
+  {
+    "symbol": "\\<gamma>",
+    "name": "gamma",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 947,
+    "decoded": "γ"
+  },
+  {
+    "symbol": "\\<delta>",
+    "name": "delta",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 948,
+    "decoded": "δ"
+  },
+  {
+    "symbol": "\\<epsilon>",
+    "name": "epsilon",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 949,
+    "decoded": "ε"
+  },
+  {
+    "symbol": "\\<zeta>",
+    "name": "zeta",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 950,
+    "decoded": "ζ"
+  },
+  {
+    "symbol": "\\<eta>",
+    "name": "eta",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 951,
+    "decoded": "η"
+  },
+  {
+    "symbol": "\\<theta>",
+    "name": "theta",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 952,
+    "decoded": "θ"
+  },
+  {
+    "symbol": "\\<iota>",
+    "name": "iota",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 953,
+    "decoded": "ι"
+  },
+  {
+    "symbol": "\\<kappa>",
+    "name": "kappa",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 954,
+    "decoded": "κ"
+  },
+  {
+    "symbol": "\\<lambda>",
+    "name": "lambda",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [
+      "%"
+    ],
+    "code": 955,
+    "decoded": "λ"
+  },
+  {
+    "symbol": "\\<mu>",
+    "name": "mu",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 956,
+    "decoded": "μ"
+  },
+  {
+    "symbol": "\\<nu>",
+    "name": "nu",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 957,
+    "decoded": "ν"
+  },
+  {
+    "symbol": "\\<xi>",
+    "name": "xi",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 958,
+    "decoded": "ξ"
+  },
+  {
+    "symbol": "\\<pi>",
+    "name": "pi",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 960,
+    "decoded": "π"
+  },
+  {
+    "symbol": "\\<rho>",
+    "name": "rho",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 961,
+    "decoded": "ρ"
+  },
+  {
+    "symbol": "\\<sigma>",
+    "name": "sigma",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 963,
+    "decoded": "σ"
+  },
+  {
+    "symbol": "\\<tau>",
+    "name": "tau",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 964,
+    "decoded": "τ"
+  },
+  {
+    "symbol": "\\<upsilon>",
+    "name": "upsilon",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 965,
+    "decoded": "υ"
+  },
+  {
+    "symbol": "\\<phi>",
+    "name": "phi",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 966,
+    "decoded": "φ"
+  },
+  {
+    "symbol": "\\<chi>",
+    "name": "chi",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 967,
+    "decoded": "χ"
+  },
+  {
+    "symbol": "\\<psi>",
+    "name": "psi",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 968,
+    "decoded": "ψ"
+  },
+  {
+    "symbol": "\\<omega>",
+    "name": "omega",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 969,
+    "decoded": "ω"
+  },
+  {
+    "symbol": "\\<Gamma>",
+    "name": "Gamma",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 915,
+    "decoded": "Γ"
+  },
+  {
+    "symbol": "\\<Delta>",
+    "name": "Delta",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 916,
+    "decoded": "Δ"
+  },
+  {
+    "symbol": "\\<Theta>",
+    "name": "Theta",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 920,
+    "decoded": "Θ"
+  },
+  {
+    "symbol": "\\<Lambda>",
+    "name": "Lambda",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 923,
+    "decoded": "Λ"
+  },
+  {
+    "symbol": "\\<Xi>",
+    "name": "Xi",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 926,
+    "decoded": "Ξ"
+  },
+  {
+    "symbol": "\\<Pi>",
+    "name": "Pi",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 928,
+    "decoded": "Π"
+  },
+  {
+    "symbol": "\\<Sigma>",
+    "name": "Sigma",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 931,
+    "decoded": "Σ"
+  },
+  {
+    "symbol": "\\<Upsilon>",
+    "name": "Upsilon",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 933,
+    "decoded": "Υ"
+  },
+  {
+    "symbol": "\\<Phi>",
+    "name": "Phi",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 934,
+    "decoded": "Φ"
+  },
+  {
+    "symbol": "\\<Psi>",
+    "name": "Psi",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 936,
+    "decoded": "Ψ"
+  },
+  {
+    "symbol": "\\<Omega>",
+    "name": "Omega",
+    "argument": "none",
+    "groups": [
+      "greek"
+    ],
+    "abbrevs": [],
+    "code": 937,
+    "decoded": "Ω"
+  },
+  {
+    "symbol": "\\<bbbA>",
+    "name": "bbbA",
+    "argument": "none",
+    "groups": [
+      "letter",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 120120,
+    "decoded": "𝔸"
+  },
+  {
+    "symbol": "\\<bool>",
+    "name": "bool",
+    "argument": "none",
+    "groups": [
+      "letter",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 120121,
+    "decoded": "𝔹"
+  },
+  {
+    "symbol": "\\<complex>",
+    "name": "complex",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8450,
+    "decoded": "ℂ"
+  },
+  {
+    "symbol": "\\<bbbD>",
+    "name": "bbbD",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120123,
+    "decoded": "𝔻"
+  },
+  {
+    "symbol": "\\<bbbE>",
+    "name": "bbbE",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120124,
+    "decoded": "𝔼"
+  },
+  {
+    "symbol": "\\<bbbF>",
+    "name": "bbbF",
+    "argument": "none",
+    "groups": [
+      "letter",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 120125,
+    "decoded": "𝔽"
+  },
+  {
+    "symbol": "\\<bbbG>",
+    "name": "bbbG",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120126,
+    "decoded": "𝔾"
+  },
+  {
+    "symbol": "\\<bbbH>",
+    "name": "bbbH",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8461,
+    "decoded": "ℍ"
+  },
+  {
+    "symbol": "\\<bbbI>",
+    "name": "bbbI",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120128,
+    "decoded": "𝕀"
+  },
+  {
+    "symbol": "\\<bbbJ>",
+    "name": "bbbJ",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120129,
+    "decoded": "𝕁"
+  },
+  {
+    "symbol": "\\<bbbK>",
+    "name": "bbbK",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120130,
+    "decoded": "𝕂"
+  },
+  {
+    "symbol": "\\<bbbL>",
+    "name": "bbbL",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120131,
+    "decoded": "𝕃"
+  },
+  {
+    "symbol": "\\<bbbM>",
+    "name": "bbbM",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120132,
+    "decoded": "𝕄"
+  },
+  {
+    "symbol": "\\<nat>",
+    "name": "nat",
+    "argument": "none",
+    "groups": [
+      "letter",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 8469,
+    "decoded": "ℕ"
+  },
+  {
+    "symbol": "\\<bbbO>",
+    "name": "bbbO",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120134,
+    "decoded": "𝕆"
+  },
+  {
+    "symbol": "\\<bbbP>",
+    "name": "bbbP",
+    "argument": "none",
+    "groups": [
+      "letter",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 8473,
+    "decoded": "ℙ"
+  },
+  {
+    "symbol": "\\<rat>",
+    "name": "rat",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8474,
+    "decoded": "ℚ"
+  },
+  {
+    "symbol": "\\<real>",
+    "name": "real",
+    "argument": "none",
+    "groups": [
+      "letter",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 8477,
+    "decoded": "ℝ"
+  },
+  {
+    "symbol": "\\<bbbS>",
+    "name": "bbbS",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120138,
+    "decoded": "𝕊"
+  },
+  {
+    "symbol": "\\<bbbT>",
+    "name": "bbbT",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120139,
+    "decoded": "𝕋"
+  },
+  {
+    "symbol": "\\<bbbU>",
+    "name": "bbbU",
+    "argument": "none",
+    "groups": [
+      "letter",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 120140,
+    "decoded": "𝕌"
+  },
+  {
+    "symbol": "\\<bbbV>",
+    "name": "bbbV",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120141,
+    "decoded": "𝕍"
+  },
+  {
+    "symbol": "\\<bbbW>",
+    "name": "bbbW",
+    "argument": "none",
+    "groups": [
+      "letter",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 120142,
+    "decoded": "𝕎"
+  },
+  {
+    "symbol": "\\<bbbX>",
+    "name": "bbbX",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120143,
+    "decoded": "𝕏"
+  },
+  {
+    "symbol": "\\<bbbY>",
+    "name": "bbbY",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 120144,
+    "decoded": "𝕐"
+  },
+  {
+    "symbol": "\\<int>",
+    "name": "int",
+    "argument": "none",
+    "groups": [
+      "letter"
+    ],
+    "abbrevs": [],
+    "code": 8484,
+    "decoded": "ℤ"
+  },
+  {
+    "symbol": "\\<leftarrow>",
+    "name": "leftarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<."
+    ],
+    "code": 8592,
+    "decoded": "←"
+  },
+  {
+    "symbol": "\\<longleftarrow>",
+    "name": "longleftarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<."
+    ],
+    "code": 10229,
+    "decoded": "⟵"
+  },
+  {
+    "symbol": "\\<longlongleftarrow>",
+    "name": "longlongleftarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<."
+    ],
+    "code": 10510,
+    "decoded": "⤎"
+  },
+  {
+    "symbol": "\\<longlonglongleftarrow>",
+    "name": "longlonglongleftarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<."
+    ],
+    "code": 8672,
+    "decoded": "⇠"
+  },
+  {
+    "symbol": "\\<rightarrow>",
+    "name": "rightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      ".>",
+      "->"
+    ],
+    "code": 8594,
+    "decoded": "→"
+  },
+  {
+    "symbol": "\\<longrightarrow>",
+    "name": "longrightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>",
+      "-->"
+    ],
+    "code": 10230,
+    "decoded": "⟶"
+  },
+  {
+    "symbol": "\\<longlongrightarrow>",
+    "name": "longlongrightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>",
+      "--->"
+    ],
+    "code": 10511,
+    "decoded": "⤏"
+  },
+  {
+    "symbol": "\\<longlonglongrightarrow>",
+    "name": "longlonglongrightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>",
+      "--->"
+    ],
+    "code": 8674,
+    "decoded": "⇢"
+  },
+  {
+    "symbol": "\\<Leftarrow>",
+    "name": "Leftarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<."
+    ],
+    "code": 8656,
+    "decoded": "⇐"
+  },
+  {
+    "symbol": "\\<Longleftarrow>",
+    "name": "Longleftarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<."
+    ],
+    "code": 10232,
+    "decoded": "⟸"
+  },
+  {
+    "symbol": "\\<Lleftarrow>",
+    "name": "Lleftarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<."
+    ],
+    "code": 8666,
+    "decoded": "⇚"
+  },
+  {
+    "symbol": "\\<Rightarrow>",
+    "name": "Rightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>",
+      "=>"
+    ],
+    "code": 8658,
+    "decoded": "⇒"
+  },
+  {
+    "symbol": "\\<Longrightarrow>",
+    "name": "Longrightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>",
+      "==>"
+    ],
+    "code": 10233,
+    "decoded": "⟹"
+  },
+  {
+    "symbol": "\\<Rrightarrow>",
+    "name": "Rrightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 8667,
+    "decoded": "⇛"
+  },
+  {
+    "symbol": "\\<leftrightarrow>",
+    "name": "leftrightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      "<>",
+      "<->"
+    ],
+    "code": 8596,
+    "decoded": "↔"
+  },
+  {
+    "symbol": "\\<longleftrightarrow>",
+    "name": "longleftrightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<>",
+      "<->",
+      "<-->"
+    ],
+    "code": 10231,
+    "decoded": "⟷"
+  },
+  {
+    "symbol": "\\<Leftrightarrow>",
+    "name": "Leftrightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<>"
+    ],
+    "code": 8660,
+    "decoded": "⇔"
+  },
+  {
+    "symbol": "\\<Longleftrightarrow>",
+    "name": "Longleftrightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<>"
+    ],
+    "code": 10234,
+    "decoded": "⟺"
+  },
+  {
+    "symbol": "\\<mapsto>",
+    "name": "mapsto",
+    "argument": "none",
+    "groups": [
+      "arrow",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      ".>",
+      "|->"
+    ],
+    "code": 8614,
+    "decoded": "↦"
+  },
+  {
+    "symbol": "\\<longmapsto>",
+    "name": "longmapsto",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>",
+      "|-->"
+    ],
+    "code": 10236,
+    "decoded": "⟼"
+  },
+  {
+    "symbol": "\\<midarrow>",
+    "name": "midarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<>"
+    ],
+    "code": 9472,
+    "decoded": "─"
+  },
+  {
+    "symbol": "\\<Midarrow>",
+    "name": "Midarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<>"
+    ],
+    "code": 9552,
+    "decoded": "═"
+  },
+  {
+    "symbol": "\\<hookleftarrow>",
+    "name": "hookleftarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<."
+    ],
+    "code": 8617,
+    "decoded": "↩"
+  },
+  {
+    "symbol": "\\<hookrightarrow>",
+    "name": "hookrightarrow",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 8618,
+    "decoded": "↪"
+  },
+  {
+    "symbol": "\\<leftharpoondown>",
+    "name": "leftharpoondown",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<."
+    ],
+    "code": 8637,
+    "decoded": "↽"
+  },
+  {
+    "symbol": "\\<rightharpoondown>",
+    "name": "rightharpoondown",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 8641,
+    "decoded": "⇁"
+  },
+  {
+    "symbol": "\\<leftharpoonup>",
+    "name": "leftharpoonup",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<."
+    ],
+    "code": 8636,
+    "decoded": "↼"
+  },
+  {
+    "symbol": "\\<rightharpoonup>",
+    "name": "rightharpoonup",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 8640,
+    "decoded": "⇀"
+  },
+  {
+    "symbol": "\\<rightleftharpoons>",
+    "name": "rightleftharpoons",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [
+      "<>",
+      "=="
+    ],
+    "code": 8652,
+    "decoded": "⇌"
+  },
+  {
+    "symbol": "\\<leadsto>",
+    "name": "leadsto",
+    "argument": "none",
+    "groups": [
+      "arrow",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      ".>",
+      "~>"
+    ],
+    "code": 8605,
+    "decoded": "↝"
+  },
+  {
+    "symbol": "\\<downharpoonleft>",
+    "name": "downharpoonleft",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [],
+    "code": 8643,
+    "decoded": "⇃"
+  },
+  {
+    "symbol": "\\<downharpoonright>",
+    "name": "downharpoonright",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [],
+    "code": 8642,
+    "decoded": "⇂"
+  },
+  {
+    "symbol": "\\<upharpoonleft>",
+    "name": "upharpoonleft",
+    "argument": "none",
+    "groups": [
+      "arrow",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 8639,
+    "decoded": "↿"
+  },
+  {
+    "symbol": "\\<restriction>",
+    "name": "restriction",
+    "argument": "none",
+    "groups": [
+      "operator",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 8638,
+    "decoded": "↾"
+  },
+  {
+    "symbol": "\\<Colon>",
+    "name": "Colon",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [],
+    "code": 8759,
+    "decoded": "∷"
+  },
+  {
+    "symbol": "\\<up>",
+    "name": "up",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [],
+    "code": 8593,
+    "decoded": "↑"
+  },
+  {
+    "symbol": "\\<Up>",
+    "name": "Up",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [],
+    "code": 8657,
+    "decoded": "⇑"
+  },
+  {
+    "symbol": "\\<down>",
+    "name": "down",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [],
+    "code": 8595,
+    "decoded": "↓"
+  },
+  {
+    "symbol": "\\<Down>",
+    "name": "Down",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [],
+    "code": 8659,
+    "decoded": "⇓"
+  },
+  {
+    "symbol": "\\<updown>",
+    "name": "updown",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [],
+    "code": 8597,
+    "decoded": "↕"
+  },
+  {
+    "symbol": "\\<Updown>",
+    "name": "Updown",
+    "argument": "none",
+    "groups": [
+      "arrow"
+    ],
+    "abbrevs": [],
+    "code": 8661,
+    "decoded": "⇕"
+  },
+  {
+    "symbol": "\\<langle>",
+    "name": "langle",
+    "argument": "none",
+    "groups": [
+      "punctuation",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      "<<"
+    ],
+    "code": 10216,
+    "decoded": "⟨"
+  },
+  {
+    "symbol": "\\<rangle>",
+    "name": "rangle",
+    "argument": "none",
+    "groups": [
+      "punctuation",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      ">>"
+    ],
+    "code": 10217,
+    "decoded": "⟩"
+  },
+  {
+    "symbol": "\\<llangle>",
+    "name": "llangle",
+    "argument": "none",
+    "groups": [
+      "punctuation",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      "<<"
+    ],
+    "code": 10218,
+    "decoded": "⟪"
+  },
+  {
+    "symbol": "\\<rrangle>",
+    "name": "rrangle",
+    "argument": "none",
+    "groups": [
+      "punctuation",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      ">>"
+    ],
+    "code": 10219,
+    "decoded": "⟫"
+  },
+  {
+    "symbol": "\\<lceil>",
+    "name": "lceil",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      "[."
+    ],
+    "code": 8968,
+    "decoded": "⌈"
+  },
+  {
+    "symbol": "\\<rceil>",
+    "name": "rceil",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      ".]"
+    ],
+    "code": 8969,
+    "decoded": "⌉"
+  },
+  {
+    "symbol": "\\<lfloor>",
+    "name": "lfloor",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      "[."
+    ],
+    "code": 8970,
+    "decoded": "⌊"
+  },
+  {
+    "symbol": "\\<rfloor>",
+    "name": "rfloor",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      ".]"
+    ],
+    "code": 8971,
+    "decoded": "⌋"
+  },
+  {
+    "symbol": "\\<lparr>",
+    "name": "lparr",
+    "argument": "none",
+    "groups": [
+      "punctuation",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      "(|"
+    ],
+    "code": 10631,
+    "decoded": "⦇"
+  },
+  {
+    "symbol": "\\<rparr>",
+    "name": "rparr",
+    "argument": "none",
+    "groups": [
+      "punctuation",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      "|)"
+    ],
+    "code": 10632,
+    "decoded": "⦈"
+  },
+  {
+    "symbol": "\\<lbrakk>",
+    "name": "lbrakk",
+    "argument": "none",
+    "groups": [
+      "punctuation",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      "[|"
+    ],
+    "code": 10214,
+    "decoded": "⟦"
+  },
+  {
+    "symbol": "\\<rbrakk>",
+    "name": "rbrakk",
+    "argument": "none",
+    "groups": [
+      "punctuation",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      "|]"
+    ],
+    "code": 10215,
+    "decoded": "⟧"
+  },
+  {
+    "symbol": "\\<lbrace>",
+    "name": "lbrace",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      "{|"
+    ],
+    "code": 10627,
+    "decoded": "⦃"
+  },
+  {
+    "symbol": "\\<rbrace>",
+    "name": "rbrace",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      "|}"
+    ],
+    "code": 10628,
+    "decoded": "⦄"
+  },
+  {
+    "symbol": "\\<lblot>",
+    "name": "lblot",
+    "argument": "none",
+    "groups": [
+      "punctuation",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      "<<"
+    ],
+    "code": 10633,
+    "decoded": "⦉"
+  },
+  {
+    "symbol": "\\<rblot>",
+    "name": "rblot",
+    "argument": "none",
+    "groups": [
+      "punctuation",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      ">>"
+    ],
+    "code": 10634,
+    "decoded": "⦊"
+  },
+  {
+    "symbol": "\\<guillemotleft>",
+    "name": "guillemotleft",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      "<<"
+    ],
+    "code": 171,
+    "decoded": "«"
+  },
+  {
+    "symbol": "\\<guillemotright>",
+    "name": "guillemotright",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      ">>"
+    ],
+    "code": 187,
+    "decoded": "»"
+  },
+  {
+    "symbol": "\\<bottom>",
+    "name": "bottom",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [],
+    "code": 8869,
+    "decoded": "⊥"
+  },
+  {
+    "symbol": "\\<top>",
+    "name": "top",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [],
+    "code": 8868,
+    "decoded": "⊤"
+  },
+  {
+    "symbol": "\\<and>",
+    "name": "and",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [
+      "/\\",
+      "&"
+    ],
+    "code": 8743,
+    "decoded": "∧"
+  },
+  {
+    "symbol": "\\<And>",
+    "name": "And",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [
+      "!!"
+    ],
+    "code": 8896,
+    "decoded": "⋀"
+  },
+  {
+    "symbol": "\\<or>",
+    "name": "or",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [
+      "\\/",
+      "|"
+    ],
+    "code": 8744,
+    "decoded": "∨"
+  },
+  {
+    "symbol": "\\<Or>",
+    "name": "Or",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [
+      "??"
+    ],
+    "code": 8897,
+    "decoded": "⋁"
+  },
+  {
+    "symbol": "\\<forall>",
+    "name": "forall",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [
+      "!",
+      "ALL"
+    ],
+    "code": 8704,
+    "decoded": "∀"
+  },
+  {
+    "symbol": "\\<exists>",
+    "name": "exists",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [
+      "?",
+      "EX"
+    ],
+    "code": 8707,
+    "decoded": "∃"
+  },
+  {
+    "symbol": "\\<nexists>",
+    "name": "nexists",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [
+      "~?"
+    ],
+    "code": 8708,
+    "decoded": "∄"
+  },
+  {
+    "symbol": "\\<not>",
+    "name": "not",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [
+      "~"
+    ],
+    "code": 172,
+    "decoded": "¬"
+  },
+  {
+    "symbol": "\\<circle>",
+    "name": "circle",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [],
+    "code": 9675,
+    "decoded": "○"
+  },
+  {
+    "symbol": "\\<box>",
+    "name": "box",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [],
+    "code": 9633,
+    "decoded": "□"
+  },
+  {
+    "symbol": "\\<diamond>",
+    "name": "diamond",
+    "argument": "none",
+    "groups": [
+      "logic"
+    ],
+    "abbrevs": [],
+    "code": 9671,
+    "decoded": "◇"
+  },
+  {
+    "symbol": "\\<diamondop>",
+    "name": "diamondop",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8900,
+    "decoded": "⋄"
+  },
+  {
+    "symbol": "\\<turnstile>",
+    "name": "turnstile",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "|-"
+    ],
+    "code": 8866,
+    "decoded": "⊢"
+  },
+  {
+    "symbol": "\\<Turnstile>",
+    "name": "Turnstile",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "|="
+    ],
+    "code": 8872,
+    "decoded": "⊨"
+  },
+  {
+    "symbol": "\\<tturnstile>",
+    "name": "tturnstile",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "|-"
+    ],
+    "code": 8873,
+    "decoded": "⊩"
+  },
+  {
+    "symbol": "\\<TTurnstile>",
+    "name": "TTurnstile",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "|="
+    ],
+    "code": 8875,
+    "decoded": "⊫"
+  },
+  {
+    "symbol": "\\<stileturn>",
+    "name": "stileturn",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "-|"
+    ],
+    "code": 8867,
+    "decoded": "⊣"
+  },
+  {
+    "symbol": "\\<surd>",
+    "name": "surd",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8730,
+    "decoded": "√"
+  },
+  {
+    "symbol": "\\<le>",
+    "name": "le",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "<="
+    ],
+    "code": 8804,
+    "decoded": "≤"
+  },
+  {
+    "symbol": "\\<ge>",
+    "name": "ge",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      ">="
+    ],
+    "code": 8805,
+    "decoded": "≥"
+  },
+  {
+    "symbol": "\\<lless>",
+    "name": "lless",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "<<"
+    ],
+    "code": 8810,
+    "decoded": "≪"
+  },
+  {
+    "symbol": "\\<ggreater>",
+    "name": "ggreater",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      ">>"
+    ],
+    "code": 8811,
+    "decoded": "≫"
+  },
+  {
+    "symbol": "\\<lesssim>",
+    "name": "lesssim",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8818,
+    "decoded": "≲"
+  },
+  {
+    "symbol": "\\<greatersim>",
+    "name": "greatersim",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8819,
+    "decoded": "≳"
+  },
+  {
+    "symbol": "\\<lessapprox>",
+    "name": "lessapprox",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 10885,
+    "decoded": "⪅"
+  },
+  {
+    "symbol": "\\<greaterapprox>",
+    "name": "greaterapprox",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 10886,
+    "decoded": "⪆"
+  },
+  {
+    "symbol": "\\<in>",
+    "name": "in",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      ":"
+    ],
+    "code": 8712,
+    "decoded": "∈"
+  },
+  {
+    "symbol": "\\<notin>",
+    "name": "notin",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "~:"
+    ],
+    "code": 8713,
+    "decoded": "∉"
+  },
+  {
+    "symbol": "\\<subset>",
+    "name": "subset",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8834,
+    "decoded": "⊂"
+  },
+  {
+    "symbol": "\\<supset>",
+    "name": "supset",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8835,
+    "decoded": "⊃"
+  },
+  {
+    "symbol": "\\<subseteq>",
+    "name": "subseteq",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "(="
+    ],
+    "code": 8838,
+    "decoded": "⊆"
+  },
+  {
+    "symbol": "\\<supseteq>",
+    "name": "supseteq",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      ")="
+    ],
+    "code": 8839,
+    "decoded": "⊇"
+  },
+  {
+    "symbol": "\\<sqsubset>",
+    "name": "sqsubset",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8847,
+    "decoded": "⊏"
+  },
+  {
+    "symbol": "\\<sqsupset>",
+    "name": "sqsupset",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8848,
+    "decoded": "⊐"
+  },
+  {
+    "symbol": "\\<sqsubseteq>",
+    "name": "sqsubseteq",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "[="
+    ],
+    "code": 8849,
+    "decoded": "⊑"
+  },
+  {
+    "symbol": "\\<sqsupseteq>",
+    "name": "sqsupseteq",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "]="
+    ],
+    "code": 8850,
+    "decoded": "⊒"
+  },
+  {
+    "symbol": "\\<inter>",
+    "name": "inter",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [
+      "Int"
+    ],
+    "code": 8745,
+    "decoded": "∩"
+  },
+  {
+    "symbol": "\\<Inter>",
+    "name": "Inter",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [
+      "Inter",
+      "INT"
+    ],
+    "code": 8898,
+    "decoded": "⋂"
+  },
+  {
+    "symbol": "\\<union>",
+    "name": "union",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [
+      "Un"
+    ],
+    "code": 8746,
+    "decoded": "∪"
+  },
+  {
+    "symbol": "\\<Union>",
+    "name": "Union",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [
+      "Union",
+      "UN"
+    ],
+    "code": 8899,
+    "decoded": "⋃"
+  },
+  {
+    "symbol": "\\<squnion>",
+    "name": "squnion",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8852,
+    "decoded": "⊔"
+  },
+  {
+    "symbol": "\\<Squnion>",
+    "name": "Squnion",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [
+      "SUP"
+    ],
+    "code": 10758,
+    "decoded": "⨆"
+  },
+  {
+    "symbol": "\\<sqinter>",
+    "name": "sqinter",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8851,
+    "decoded": "⊓"
+  },
+  {
+    "symbol": "\\<Sqinter>",
+    "name": "Sqinter",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [
+      "INF"
+    ],
+    "code": 10757,
+    "decoded": "⨅"
+  },
+  {
+    "symbol": "\\<setminus>",
+    "name": "setminus",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8726,
+    "decoded": "∖"
+  },
+  {
+    "symbol": "\\<propto>",
+    "name": "propto",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8733,
+    "decoded": "∝"
+  },
+  {
+    "symbol": "\\<uplus>",
+    "name": "uplus",
+    "argument": "none",
+    "groups": [
+      "operator",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 8846,
+    "decoded": "⊎"
+  },
+  {
+    "symbol": "\\<Uplus>",
+    "name": "Uplus",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 10756,
+    "decoded": "⨄"
+  },
+  {
+    "symbol": "\\<noteq>",
+    "name": "noteq",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "~="
+    ],
+    "code": 8800,
+    "decoded": "≠"
+  },
+  {
+    "symbol": "\\<sim>",
+    "name": "sim",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8764,
+    "decoded": "∼"
+  },
+  {
+    "symbol": "\\<doteq>",
+    "name": "doteq",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      ".="
+    ],
+    "code": 8784,
+    "decoded": "≐"
+  },
+  {
+    "symbol": "\\<simeq>",
+    "name": "simeq",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8771,
+    "decoded": "≃"
+  },
+  {
+    "symbol": "\\<approx>",
+    "name": "approx",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8776,
+    "decoded": "≈"
+  },
+  {
+    "symbol": "\\<asymp>",
+    "name": "asymp",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8781,
+    "decoded": "≍"
+  },
+  {
+    "symbol": "\\<cong>",
+    "name": "cong",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8773,
+    "decoded": "≅"
+  },
+  {
+    "symbol": "\\<smile>",
+    "name": "smile",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8995,
+    "decoded": "⌣"
+  },
+  {
+    "symbol": "\\<equiv>",
+    "name": "equiv",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "=="
+    ],
+    "code": 8801,
+    "decoded": "≡"
+  },
+  {
+    "symbol": "\\<frown>",
+    "name": "frown",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8994,
+    "decoded": "⌢"
+  },
+  {
+    "symbol": "\\<Join>",
+    "name": "Join",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8904,
+    "decoded": "⋈"
+  },
+  {
+    "symbol": "\\<bowtie>",
+    "name": "bowtie",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 10781,
+    "decoded": "⨝"
+  },
+  {
+    "symbol": "\\<prec>",
+    "name": "prec",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8826,
+    "decoded": "≺"
+  },
+  {
+    "symbol": "\\<succ>",
+    "name": "succ",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8827,
+    "decoded": "≻"
+  },
+  {
+    "symbol": "\\<preceq>",
+    "name": "preceq",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8828,
+    "decoded": "≼"
+  },
+  {
+    "symbol": "\\<succeq>",
+    "name": "succeq",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8829,
+    "decoded": "≽"
+  },
+  {
+    "symbol": "\\<parallel>",
+    "name": "parallel",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "||"
+    ],
+    "code": 8741,
+    "decoded": "∥"
+  },
+  {
+    "symbol": "\\<Parallel>",
+    "name": "Parallel",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "||"
+    ],
+    "code": 8214,
+    "decoded": "‖"
+  },
+  {
+    "symbol": "\\<interleave>",
+    "name": "interleave",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "||"
+    ],
+    "code": 10996,
+    "decoded": "⫴"
+  },
+  {
+    "symbol": "\\<sslash>",
+    "name": "sslash",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [
+      "||"
+    ],
+    "code": 11005,
+    "decoded": "⫽"
+  },
+  {
+    "symbol": "\\<bar>",
+    "name": "bar",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      "||"
+    ],
+    "code": 166,
+    "decoded": "¦"
+  },
+  {
+    "symbol": "\\<bbar>",
+    "name": "bbar",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      "||"
+    ],
+    "code": 11007,
+    "decoded": "⫿"
+  },
+  {
+    "symbol": "\\<plusminus>",
+    "name": "plusminus",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 177,
+    "decoded": "±"
+  },
+  {
+    "symbol": "\\<minusplus>",
+    "name": "minusplus",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8723,
+    "decoded": "∓"
+  },
+  {
+    "symbol": "\\<times>",
+    "name": "times",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [
+      "<*>"
+    ],
+    "code": 215,
+    "decoded": "×"
+  },
+  {
+    "symbol": "\\<div>",
+    "name": "div",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 247,
+    "decoded": "÷"
+  },
+  {
+    "symbol": "\\<cdot>",
+    "name": "cdot",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8901,
+    "decoded": "⋅"
+  },
+  {
+    "symbol": "\\<star>",
+    "name": "star",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8902,
+    "decoded": "⋆"
+  },
+  {
+    "symbol": "\\<bullet>",
+    "name": "bullet",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8729,
+    "decoded": "∙"
+  },
+  {
+    "symbol": "\\<circ>",
+    "name": "circ",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8728,
+    "decoded": "∘"
+  },
+  {
+    "symbol": "\\<dagger>",
+    "name": "dagger",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8224,
+    "decoded": "†"
+  },
+  {
+    "symbol": "\\<ddagger>",
+    "name": "ddagger",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8225,
+    "decoded": "‡"
+  },
+  {
+    "symbol": "\\<lhd>",
+    "name": "lhd",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8882,
+    "decoded": "⊲"
+  },
+  {
+    "symbol": "\\<rhd>",
+    "name": "rhd",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8883,
+    "decoded": "⊳"
+  },
+  {
+    "symbol": "\\<unlhd>",
+    "name": "unlhd",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8884,
+    "decoded": "⊴"
+  },
+  {
+    "symbol": "\\<unrhd>",
+    "name": "unrhd",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8885,
+    "decoded": "⊵"
+  },
+  {
+    "symbol": "\\<triangleleft>",
+    "name": "triangleleft",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 9667,
+    "decoded": "◃"
+  },
+  {
+    "symbol": "\\<triangleright>",
+    "name": "triangleright",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 9657,
+    "decoded": "▹"
+  },
+  {
+    "symbol": "\\<triangle>",
+    "name": "triangle",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 9651,
+    "decoded": "△"
+  },
+  {
+    "symbol": "\\<triangleq>",
+    "name": "triangleq",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8796,
+    "decoded": "≜"
+  },
+  {
+    "symbol": "\\<oplus>",
+    "name": "oplus",
+    "argument": "none",
+    "groups": [
+      "operator",
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 8853,
+    "decoded": "⊕"
+  },
+  {
+    "symbol": "\\<Oplus>",
+    "name": "Oplus",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 10753,
+    "decoded": "⨁"
+  },
+  {
+    "symbol": "\\<otimes>",
+    "name": "otimes",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8855,
+    "decoded": "⊗"
+  },
+  {
+    "symbol": "\\<Otimes>",
+    "name": "Otimes",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 10754,
+    "decoded": "⨂"
+  },
+  {
+    "symbol": "\\<odot>",
+    "name": "odot",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8857,
+    "decoded": "⊙"
+  },
+  {
+    "symbol": "\\<Odot>",
+    "name": "Odot",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 10752,
+    "decoded": "⨀"
+  },
+  {
+    "symbol": "\\<ominus>",
+    "name": "ominus",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8854,
+    "decoded": "⊖"
+  },
+  {
+    "symbol": "\\<oslash>",
+    "name": "oslash",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8856,
+    "decoded": "⊘"
+  },
+  {
+    "symbol": "\\<dots>",
+    "name": "dots",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      "..."
+    ],
+    "code": 8230,
+    "decoded": "…"
+  },
+  {
+    "symbol": "\\<cdots>",
+    "name": "cdots",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [],
+    "code": 8943,
+    "decoded": "⋯"
+  },
+  {
+    "symbol": "\\<Sum>",
+    "name": "Sum",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [
+      "SUM"
+    ],
+    "code": 8721,
+    "decoded": "∑"
+  },
+  {
+    "symbol": "\\<Prod>",
+    "name": "Prod",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [
+      "PROD"
+    ],
+    "code": 8719,
+    "decoded": "∏"
+  },
+  {
+    "symbol": "\\<Coprod>",
+    "name": "Coprod",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8720,
+    "decoded": "∐"
+  },
+  {
+    "symbol": "\\<infinity>",
+    "name": "infinity",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8734,
+    "decoded": "∞"
+  },
+  {
+    "symbol": "\\<integral>",
+    "name": "integral",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8747,
+    "decoded": "∫"
+  },
+  {
+    "symbol": "\\<ointegral>",
+    "name": "ointegral",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8750,
+    "decoded": "∮"
+  },
+  {
+    "symbol": "\\<clubsuit>",
+    "name": "clubsuit",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 9827,
+    "decoded": "♣"
+  },
+  {
+    "symbol": "\\<diamondsuit>",
+    "name": "diamondsuit",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 9826,
+    "decoded": "♢"
+  },
+  {
+    "symbol": "\\<heartsuit>",
+    "name": "heartsuit",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 9825,
+    "decoded": "♡"
+  },
+  {
+    "symbol": "\\<spadesuit>",
+    "name": "spadesuit",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 9824,
+    "decoded": "♠"
+  },
+  {
+    "symbol": "\\<aleph>",
+    "name": "aleph",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8501,
+    "decoded": "ℵ"
+  },
+  {
+    "symbol": "\\<emptyset>",
+    "name": "emptyset",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8709,
+    "decoded": "∅"
+  },
+  {
+    "symbol": "\\<nabla>",
+    "name": "nabla",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8711,
+    "decoded": "∇"
+  },
+  {
+    "symbol": "\\<partial>",
+    "name": "partial",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8706,
+    "decoded": "∂"
+  },
+  {
+    "symbol": "\\<flat>",
+    "name": "flat",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 9837,
+    "decoded": "♭"
+  },
+  {
+    "symbol": "\\<natural>",
+    "name": "natural",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 9838,
+    "decoded": "♮"
+  },
+  {
+    "symbol": "\\<sharp>",
+    "name": "sharp",
+    "argument": "none",
+    "groups": [
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 9839,
+    "decoded": "♯"
+  },
+  {
+    "symbol": "\\<angle>",
+    "name": "angle",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8736,
+    "decoded": "∠"
+  },
+  {
+    "symbol": "\\<copyright>",
+    "name": "copyright",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 169,
+    "decoded": "©"
+  },
+  {
+    "symbol": "\\<registered>",
+    "name": "registered",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 174,
+    "decoded": "®"
+  },
+  {
+    "symbol": "\\<hyphen>",
+    "name": "hyphen",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [],
+    "code": 8208,
+    "decoded": "‐"
+  },
+  {
+    "symbol": "\\<inverse>",
+    "name": "inverse",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 175,
+    "decoded": "¯"
+  },
+  {
+    "symbol": "\\<sqdot>",
+    "name": "sqdot",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [],
+    "code": 183,
+    "decoded": "·"
+  },
+  {
+    "symbol": "\\<onequarter>",
+    "name": "onequarter",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 188,
+    "decoded": "¼"
+  },
+  {
+    "symbol": "\\<onehalf>",
+    "name": "onehalf",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 189,
+    "decoded": "½"
+  },
+  {
+    "symbol": "\\<threequarters>",
+    "name": "threequarters",
+    "argument": "none",
+    "groups": [
+      "digit"
+    ],
+    "abbrevs": [],
+    "code": 190,
+    "decoded": "¾"
+  },
+  {
+    "symbol": "\\<ordfeminine>",
+    "name": "ordfeminine",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 170,
+    "decoded": "ª"
+  },
+  {
+    "symbol": "\\<ordmasculine>",
+    "name": "ordmasculine",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 186,
+    "decoded": "º"
+  },
+  {
+    "symbol": "\\<section>",
+    "name": "section",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 167,
+    "decoded": "§"
+  },
+  {
+    "symbol": "\\<paragraph>",
+    "name": "paragraph",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 182,
+    "decoded": "¶"
+  },
+  {
+    "symbol": "\\<exclamdown>",
+    "name": "exclamdown",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 161,
+    "decoded": "¡"
+  },
+  {
+    "symbol": "\\<questiondown>",
+    "name": "questiondown",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 191,
+    "decoded": "¿"
+  },
+  {
+    "symbol": "\\<euro>",
+    "name": "euro",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8364,
+    "decoded": "€"
+  },
+  {
+    "symbol": "\\<pounds>",
+    "name": "pounds",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 163,
+    "decoded": "£"
+  },
+  {
+    "symbol": "\\<yen>",
+    "name": "yen",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 165,
+    "decoded": "¥"
+  },
+  {
+    "symbol": "\\<cent>",
+    "name": "cent",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 162,
+    "decoded": "¢"
+  },
+  {
+    "symbol": "\\<currency>",
+    "name": "currency",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 164,
+    "decoded": "¤"
+  },
+  {
+    "symbol": "\\<degree>",
+    "name": "degree",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 176,
+    "decoded": "°"
+  },
+  {
+    "symbol": "\\<amalg>",
+    "name": "amalg",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 10815,
+    "decoded": "⨿"
+  },
+  {
+    "symbol": "\\<mho>",
+    "name": "mho",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8487,
+    "decoded": "℧"
+  },
+  {
+    "symbol": "\\<lozenge>",
+    "name": "lozenge",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 9674,
+    "decoded": "◊"
+  },
+  {
+    "symbol": "\\<wp>",
+    "name": "wp",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8472,
+    "decoded": "℘"
+  },
+  {
+    "symbol": "\\<wrong>",
+    "name": "wrong",
+    "argument": "none",
+    "groups": [
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8768,
+    "decoded": "≀"
+  },
+  {
+    "symbol": "\\<acute>",
+    "name": "acute",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 180,
+    "decoded": "´"
+  },
+  {
+    "symbol": "\\<index>",
+    "name": "index",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 305,
+    "decoded": "ı"
+  },
+  {
+    "symbol": "\\<dieresis>",
+    "name": "dieresis",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 168,
+    "decoded": "¨"
+  },
+  {
+    "symbol": "\\<cedilla>",
+    "name": "cedilla",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 184,
+    "decoded": "¸"
+  },
+  {
+    "symbol": "\\<hungarumlaut>",
+    "name": "hungarumlaut",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 733,
+    "decoded": "˝"
+  },
+  {
+    "symbol": "\\<bind>",
+    "name": "bind",
+    "argument": "none",
+    "groups": [
+      "operator"
+    ],
+    "abbrevs": [
+      ">>="
+    ],
+    "code": 10524,
+    "decoded": "⤜"
+  },
+  {
+    "symbol": "\\<then>",
+    "name": "then",
+    "argument": "none",
+    "groups": [
+      "operator",
+      "Z_Notation"
+    ],
+    "abbrevs": [
+      ">>"
+    ],
+    "code": 10914,
+    "decoded": "⪢"
+  },
+  {
+    "symbol": "\\<some>",
+    "name": "some",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 1013,
+    "decoded": "ϵ"
+  },
+  {
+    "symbol": "\\<Zcomp>",
+    "name": "Zcomp",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "punctuation"
+    ],
+    "abbrevs": [],
+    "code": 10814,
+    "decoded": "⨾"
+  },
+  {
+    "symbol": "\\<Zinj>",
+    "name": "Zinj",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 8611,
+    "decoded": "↣"
+  },
+  {
+    "symbol": "\\<Zpinj>",
+    "name": "Zpinj",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 10516,
+    "decoded": "⤔"
+  },
+  {
+    "symbol": "\\<Zfinj>",
+    "name": "Zfinj",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 10517,
+    "decoded": "⤕"
+  },
+  {
+    "symbol": "\\<Zsurj>",
+    "name": "Zsurj",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 8608,
+    "decoded": "↠"
+  },
+  {
+    "symbol": "\\<Zpsurj>",
+    "name": "Zpsurj",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 10496,
+    "decoded": "⤀"
+  },
+  {
+    "symbol": "\\<Zbij>",
+    "name": "Zbij",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 10518,
+    "decoded": "⤖"
+  },
+  {
+    "symbol": "\\<Zpfun>",
+    "name": "Zpfun",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 8696,
+    "decoded": "⇸"
+  },
+  {
+    "symbol": "\\<Zffun>",
+    "name": "Zffun",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "arrow"
+    ],
+    "abbrevs": [
+      ".>"
+    ],
+    "code": 8699,
+    "decoded": "⇻"
+  },
+  {
+    "symbol": "\\<Zdres>",
+    "name": "Zdres",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 9665,
+    "decoded": "◁"
+  },
+  {
+    "symbol": "\\<Zndres>",
+    "name": "Zndres",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 10852,
+    "decoded": "⩤"
+  },
+  {
+    "symbol": "\\<Zrres>",
+    "name": "Zrres",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 9655,
+    "decoded": "▷"
+  },
+  {
+    "symbol": "\\<Znrres>",
+    "name": "Znrres",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 10853,
+    "decoded": "⩥"
+  },
+  {
+    "symbol": "\\<Zspot>",
+    "name": "Zspot",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "punctuation"
+    ],
+    "abbrevs": [],
+    "code": 10625,
+    "decoded": "⦁"
+  },
+  {
+    "symbol": "\\<Zsemi>",
+    "name": "Zsemi",
+    "argument": "none",
+    "groups": [
+      "Z_Notation"
+    ],
+    "abbrevs": [],
+    "code": 10783,
+    "decoded": "⨟"
+  },
+  {
+    "symbol": "\\<Zproject>",
+    "name": "Zproject",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 10785,
+    "decoded": "⨡"
+  },
+  {
+    "symbol": "\\<Ztypecolon>",
+    "name": "Ztypecolon",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 10626,
+    "decoded": "⦂"
+  },
+  {
+    "symbol": "\\<Zhide>",
+    "name": "Zhide",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 10745,
+    "decoded": "⧹"
+  },
+  {
+    "symbol": "\\<Zcat>",
+    "name": "Zcat",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "operator"
+    ],
+    "abbrevs": [],
+    "code": 8256,
+    "decoded": "⁀"
+  },
+  {
+    "symbol": "\\<Zinbag>",
+    "name": "Zinbag",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "relation"
+    ],
+    "abbrevs": [],
+    "code": 8959,
+    "decoded": "⋿"
+  },
+  {
+    "symbol": "\\<Zprime>",
+    "name": "Zprime",
+    "argument": "none",
+    "groups": [
+      "Z_Notation",
+      "punctuation"
+    ],
+    "abbrevs": [],
+    "code": 8242,
+    "decoded": "′"
+  },
+  {
+    "symbol": "\\<hole>",
+    "name": "hole",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8977,
+    "decoded": "⌑"
+  },
+  {
+    "symbol": "\\<newline>",
+    "name": "newline",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 9166,
+    "decoded": "⏎"
+  },
+  {
+    "symbol": "\\<comment>",
+    "name": "comment",
+    "argument": "space_cartouche",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 8213,
+    "decoded": "―"
+  },
+  {
+    "symbol": "\\<^cancel>",
+    "name": "cancel",
+    "argument": "cartouche",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 8998,
+    "decoded": "⌦"
+  },
+  {
+    "symbol": "\\<^latex>",
+    "name": "latex",
+    "argument": "cartouche",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^latex>"
+  },
+  {
+    "symbol": "\\<^marker>",
+    "name": "marker",
+    "argument": "cartouche",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 10000,
+    "decoded": "✐"
+  },
+  {
+    "symbol": "\\<checkmark>",
+    "name": "checkmark",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 10003,
+    "decoded": "✓"
+  },
+  {
+    "symbol": "\\<crossmark>",
+    "name": "crossmark",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 10007,
+    "decoded": "✗"
+  },
+  {
+    "symbol": "\\<open>",
+    "name": "open",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      "<<"
+    ],
+    "code": 8249,
+    "decoded": "‹"
+  },
+  {
+    "symbol": "\\<close>",
+    "name": "close",
+    "argument": "none",
+    "groups": [
+      "punctuation"
+    ],
+    "abbrevs": [
+      ">>"
+    ],
+    "code": 8250,
+    "decoded": "›"
+  },
+  {
+    "symbol": "\\<^here>",
+    "name": "here",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 8962,
+    "decoded": "⌂"
+  },
+  {
+    "symbol": "\\<^undefined>",
+    "name": "undefined",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "code": 10070,
+    "decoded": "❖"
+  },
+  {
+    "symbol": "\\<^noindent>",
+    "name": "noindent",
+    "argument": "none",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 8676,
+    "decoded": "⇤"
+  },
+  {
+    "symbol": "\\<^smallskip>",
+    "name": "smallskip",
+    "argument": "none",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 9480,
+    "decoded": "┈"
+  },
+  {
+    "symbol": "\\<^medskip>",
+    "name": "medskip",
+    "argument": "none",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 9481,
+    "decoded": "┉"
+  },
+  {
+    "symbol": "\\<^bigskip>",
+    "name": "bigskip",
+    "argument": "none",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 9473,
+    "decoded": "━"
+  },
+  {
+    "symbol": "\\<^item>",
+    "name": "item",
+    "argument": "none",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 9642,
+    "decoded": "▪"
+  },
+  {
+    "symbol": "\\<^enum>",
+    "name": "enum",
+    "argument": "none",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 9656,
+    "decoded": "▸"
+  },
+  {
+    "symbol": "\\<^descr>",
+    "name": "descr",
+    "argument": "none",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 10151,
+    "decoded": "➧"
+  },
+  {
+    "symbol": "\\<^footnote>",
+    "name": "footnote",
+    "argument": "cartouche",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 8267,
+    "decoded": "⁋"
+  },
+  {
+    "symbol": "\\<^verbatim>",
+    "name": "verbatim",
+    "argument": "cartouche",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 9641,
+    "decoded": "▩"
+  },
+  {
+    "symbol": "\\<^theory_text>",
+    "name": "theory_text",
+    "argument": "cartouche",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 11034,
+    "decoded": "⬚"
+  },
+  {
+    "symbol": "\\<^emph>",
+    "name": "emph",
+    "argument": "cartouche",
+    "groups": [
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 8727,
+    "decoded": "∗"
+  },
+  {
+    "symbol": "\\<^bold>",
+    "name": "bold",
+    "argument": "cartouche",
+    "groups": [
+      "control",
+      "document"
+    ],
+    "abbrevs": [],
+    "code": 10073,
+    "decoded": "❙"
+  },
+  {
+    "symbol": "\\<^sub>",
+    "name": "sub",
+    "argument": "none",
+    "groups": [
+      "control"
+    ],
+    "abbrevs": [],
+    "code": 8681,
+    "decoded": "⇩"
+  },
+  {
+    "symbol": "\\<^sup>",
+    "name": "sup",
+    "argument": "none",
+    "groups": [
+      "control"
+    ],
+    "abbrevs": [],
+    "code": 8679,
+    "decoded": "⇧"
+  },
+  {
+    "symbol": "\\<^bsub>",
+    "name": "bsub",
+    "argument": "none",
+    "groups": [
+      "control_block"
+    ],
+    "abbrevs": [
+      "=_("
+    ],
+    "code": 8664,
+    "decoded": "⇘"
+  },
+  {
+    "symbol": "\\<^esub>",
+    "name": "esub",
+    "argument": "none",
+    "groups": [
+      "control_block"
+    ],
+    "abbrevs": [
+      "=_)"
+    ],
+    "code": 8665,
+    "decoded": "⇙"
+  },
+  {
+    "symbol": "\\<^bsup>",
+    "name": "bsup",
+    "argument": "none",
+    "groups": [
+      "control_block"
+    ],
+    "abbrevs": [
+      "=^("
+    ],
+    "code": 8663,
+    "decoded": "⇗"
+  },
+  {
+    "symbol": "\\<^esup>",
+    "name": "esup",
+    "argument": "none",
+    "groups": [
+      "control_block"
+    ],
+    "abbrevs": [
+      "=^)"
+    ],
+    "code": 8662,
+    "decoded": "⇖"
+  },
+  {
+    "symbol": "\\<^file>",
+    "name": "file",
+    "argument": "cartouche",
+    "groups": [
+      "icon"
+    ],
+    "abbrevs": [],
+    "code": 128463,
+    "decoded": "🗏"
+  },
+  {
+    "symbol": "\\<^dir>",
+    "name": "dir",
+    "argument": "cartouche",
+    "groups": [
+      "icon"
+    ],
+    "abbrevs": [],
+    "code": 128448,
+    "decoded": "🗀"
+  },
+  {
+    "symbol": "\\<^url>",
+    "name": "url",
+    "argument": "cartouche",
+    "groups": [
+      "icon"
+    ],
+    "abbrevs": [],
+    "code": 127760,
+    "decoded": "🌐"
+  },
+  {
+    "symbol": "\\<^doc>",
+    "name": "doc",
+    "argument": "cartouche",
+    "groups": [
+      "icon"
+    ],
+    "abbrevs": [],
+    "code": 128211,
+    "decoded": "📓"
+  },
+  {
+    "symbol": "\\<^action>",
+    "name": "action",
+    "argument": "cartouche",
+    "groups": [
+      "icon"
+    ],
+    "abbrevs": [],
+    "code": 9755,
+    "decoded": "☛"
+  },
+  {
+    "symbol": "\\<^assert>",
+    "name": "assert",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^assert>"
+  },
+  {
+    "symbol": "\\<^binding>",
+    "name": "binding",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^binding>"
+  },
+  {
+    "symbol": "\\<^bundle>",
+    "name": "bundle",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^bundle>"
+  },
+  {
+    "symbol": "\\<^can>",
+    "name": "can",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^can>"
+  },
+  {
+    "symbol": "\\<^class>",
+    "name": "class",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^class>"
+  },
+  {
+    "symbol": "\\<^class_syntax>",
+    "name": "class_syntax",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^class_syntax>"
+  },
+  {
+    "symbol": "\\<^command_keyword>",
+    "name": "command_keyword",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^command_keyword>"
+  },
+  {
+    "symbol": "\\<^const>",
+    "name": "const",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^const>"
+  },
+  {
+    "symbol": "\\<^const_abbrev>",
+    "name": "const_abbrev",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^const_abbrev>"
+  },
+  {
+    "symbol": "\\<^const_name>",
+    "name": "const_name",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^const_name>"
+  },
+  {
+    "symbol": "\\<^const_syntax>",
+    "name": "const_syntax",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^const_syntax>"
+  },
+  {
+    "symbol": "\\<^context>",
+    "name": "context",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^context>"
+  },
+  {
+    "symbol": "\\<^cprop>",
+    "name": "cprop",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^cprop>"
+  },
+  {
+    "symbol": "\\<^cterm>",
+    "name": "cterm",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^cterm>"
+  },
+  {
+    "symbol": "\\<^ctyp>",
+    "name": "ctyp",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^ctyp>"
+  },
+  {
+    "symbol": "\\<^instantiate>",
+    "name": "instantiate",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^instantiate>"
+  },
+  {
+    "symbol": "\\<^keyword>",
+    "name": "keyword",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^keyword>"
+  },
+  {
+    "symbol": "\\<^locale>",
+    "name": "locale",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^locale>"
+  },
+  {
+    "symbol": "\\<^make_judgment>",
+    "name": "make_judgment",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^make_judgment>"
+  },
+  {
+    "symbol": "\\<^dest_judgment>",
+    "name": "dest_judgment",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^dest_judgment>"
+  },
+  {
+    "symbol": "\\<^make_string>",
+    "name": "make_string",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^make_string>"
+  },
+  {
+    "symbol": "\\<^method>",
+    "name": "method",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^method>"
+  },
+  {
+    "symbol": "\\<^named_theorems>",
+    "name": "named_theorems",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^named_theorems>"
+  },
+  {
+    "symbol": "\\<^nonterminal>",
+    "name": "nonterminal",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^nonterminal>"
+  },
+  {
+    "symbol": "\\<^path>",
+    "name": "path",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^path>"
+  },
+  {
+    "symbol": "\\<^path_binding>",
+    "name": "path_binding",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^path_binding>"
+  },
+  {
+    "symbol": "\\<^plugin>",
+    "name": "plugin",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^plugin>"
+  },
+  {
+    "symbol": "\\<^print>",
+    "name": "print",
+    "argument": "none",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^print>"
+  },
+  {
+    "symbol": "\\<^prop>",
+    "name": "prop",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^prop>"
+  },
+  {
+    "symbol": "\\<^bash_function>",
+    "name": "bash_function",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^bash_function>"
+  },
+  {
+    "symbol": "\\<^scala>",
+    "name": "scala",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^scala>"
+  },
+  {
+    "symbol": "\\<^scala_function>",
+    "name": "scala_function",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^scala_function>"
+  },
+  {
+    "symbol": "\\<^scala_method>",
+    "name": "scala_method",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^scala_method>"
+  },
+  {
+    "symbol": "\\<^scala_object>",
+    "name": "scala_object",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^scala_object>"
+  },
+  {
+    "symbol": "\\<^scala_thread>",
+    "name": "scala_thread",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^scala_thread>"
+  },
+  {
+    "symbol": "\\<^scala_type>",
+    "name": "scala_type",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^scala_type>"
+  },
+  {
+    "symbol": "\\<^session>",
+    "name": "session",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^session>"
+  },
+  {
+    "symbol": "\\<^simproc>",
+    "name": "simproc",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^simproc>"
+  },
+  {
+    "symbol": "\\<^simproc_setup>",
+    "name": "simproc_setup",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^simproc_setup>"
+  },
+  {
+    "symbol": "\\<^sort>",
+    "name": "sort",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^sort>"
+  },
+  {
+    "symbol": "\\<^syntax_const>",
+    "name": "syntax_const",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^syntax_const>"
+  },
+  {
+    "symbol": "\\<^system_option>",
+    "name": "system_option",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^system_option>"
+  },
+  {
+    "symbol": "\\<^term>",
+    "name": "term",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^term>"
+  },
+  {
+    "symbol": "\\<^theory>",
+    "name": "theory",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^theory>"
+  },
+  {
+    "symbol": "\\<^theory_context>",
+    "name": "theory_context",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^theory_context>"
+  },
+  {
+    "symbol": "\\<^tool>",
+    "name": "tool",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^tool>"
+  },
+  {
+    "symbol": "\\<^try>",
+    "name": "try",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^try>"
+  },
+  {
+    "symbol": "\\<^tvar>",
+    "name": "tvar",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^tvar>"
+  },
+  {
+    "symbol": "\\<^typ>",
+    "name": "typ",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^typ>"
+  },
+  {
+    "symbol": "\\<^type_abbrev>",
+    "name": "type_abbrev",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^type_abbrev>"
+  },
+  {
+    "symbol": "\\<^type_name>",
+    "name": "type_name",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^type_name>"
+  },
+  {
+    "symbol": "\\<^type_syntax>",
+    "name": "type_syntax",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^type_syntax>"
+  },
+  {
+    "symbol": "\\<^var>",
+    "name": "var",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^var>"
+  },
+  {
+    "symbol": "\\<^oracle_name>",
+    "name": "oracle_name",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^oracle_name>"
+  },
+  {
+    "symbol": "\\<^unchecked_name>",
+    "name": "unchecked_name",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^unchecked_name>"
+  },
+  {
+    "symbol": "\\<^Const>",
+    "name": "Const",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^Const>"
+  },
+  {
+    "symbol": "\\<^Const_>",
+    "name": "Const_",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^Const_>"
+  },
+  {
+    "symbol": "\\<^Const_fn>",
+    "name": "Const_fn",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^Const_fn>"
+  },
+  {
+    "symbol": "\\<^Type>",
+    "name": "Type",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^Type>"
+  },
+  {
+    "symbol": "\\<^Type_fn>",
+    "name": "Type_fn",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^Type_fn>"
+  },
+  {
+    "symbol": "\\<^code>",
+    "name": "code",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^code>"
+  },
+  {
+    "symbol": "\\<^computation>",
+    "name": "computation",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^computation>"
+  },
+  {
+    "symbol": "\\<^computation_conv>",
+    "name": "computation_conv",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^computation_conv>"
+  },
+  {
+    "symbol": "\\<^computation_check>",
+    "name": "computation_check",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^computation_check>"
+  },
+  {
+    "symbol": "\\<^if_linux>",
+    "name": "if_linux",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^if_linux>"
+  },
+  {
+    "symbol": "\\<^if_macos>",
+    "name": "if_macos",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^if_macos>"
+  },
+  {
+    "symbol": "\\<^if_windows>",
+    "name": "if_windows",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^if_windows>"
+  },
+  {
+    "symbol": "\\<^if_unix>",
+    "name": "if_unix",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^if_unix>"
+  },
+  {
+    "symbol": "\\<^if_none>",
+    "name": "if_none",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^if_none>"
+  },
+  {
+    "symbol": "\\<^cite>",
+    "name": "cite",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^cite>"
+  },
+  {
+    "symbol": "\\<^nocite>",
+    "name": "nocite",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^nocite>"
+  },
+  {
+    "symbol": "\\<^citet>",
+    "name": "citet",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^citet>"
+  },
+  {
+    "symbol": "\\<^citep>",
+    "name": "citep",
+    "argument": "cartouche",
+    "groups": [
+      "unsorted"
+    ],
+    "abbrevs": [],
+    "decoded": "\\<^citep>"
+  }
+]

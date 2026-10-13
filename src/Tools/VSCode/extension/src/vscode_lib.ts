@@ -6,6 +6,7 @@ Misc library functions for VSCode.
 "use strict";
 
 import { TextEditor, Uri, ViewColumn, window, workspace } from "vscode"
+import * as Symbol_Files from "./symbol_files"
 
 
 /* files */
@@ -13,12 +14,14 @@ import { TextEditor, Uri, ViewColumn, window, workspace } from "vscode"
 export const file_scheme: string = "file"
 
 export function is_file(uri: Uri): boolean {
-  return uri.scheme === file_scheme
+  return uri.scheme === file_scheme || uri.scheme === Symbol_Files.scheme
 }
 
 export function find_file_editor(uri: Uri): TextEditor | undefined {
   function check(editor: TextEditor): boolean {
-    return editor && is_file(editor.document.uri) && editor.document.uri.fsPath === uri.fsPath
+    return editor && is_file(editor.document.uri) &&
+      Symbol_Files.disk_uri(editor.document.uri).toString() ===
+      Symbol_Files.disk_uri(uri).toString()
   }
 
   if (is_file(uri)) {

@@ -289,7 +289,6 @@ sources = \
   src/Tools/Graphview/tree_panel.scala \
   src/Tools/VSCode/src/channel.scala \
   src/Tools/VSCode/src/component_vscode_extension.scala \
-  src/Tools/VSCode/src/component_vscodium.scala \
   src/Tools/VSCode/src/dynamic_output.scala \
   src/Tools/VSCode/src/language_server.scala \
   src/Tools/VSCode/src/lsp.scala \

@@ -213,10 +213,10 @@
         ],
         "configurationDefaults": {
             "[isabelle]": {
-                "files.encoding": "utf8isabelle"
+                "files.encoding": "utf8"
             },
             "[isabelle-ml]": {
-                "files.encoding": "utf8isabelle"
+                "files.encoding": "utf8"
             }
         },
         "grammars": [

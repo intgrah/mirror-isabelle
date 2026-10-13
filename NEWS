@@ -191,6 +191,11 @@ For example:
 
 *** Isabelle/VSCode Prover IDE ***
 
+* Isabelle/VSCode now runs as an extension in ordinary VS Code or
+VSCodium. Isabelle symbol escapes are decoded for editing and encoded
+again on save by an extension file-system provider. The separate patched
+VSCodium build is no longer required.
+
 * Output areas now do proper Isabelle pretty-printing according to
 window/panel size and font metrics, and highlight messages, and contain
 controls for some active markup (sendback and dialog).
@@ -203,11 +208,9 @@ controls for some active markup (sendback and dialog).
 styling. GUI state now persists between context switches, where
 appropriate.
 
-* Update to recent VSCode 1.135 / VSCodium 1.135.06055 (August 2026),
-Electron 42.8.1, Chromium 148.0.7778.280, Node.js 24.18.1, with pre-
-installed mathematic.vscode-pdf 0.2.5. Name and logos of the IDE are
-changed to distinguish "Isabelle VSCode" (or "Isacode" for short) from
-other VSCode / VSCodium applications.
+* The Isabelle/VSCode extension targets VSCode 1.135. PDF preview
+requires a suitable VSCode extension, and Isabelle fonts need to be
+installed separately for the editor.
 
 
 *** Document preparation ***

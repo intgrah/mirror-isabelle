@@ -26,6 +26,7 @@ import * as Symbols_View from "./symbols_view"
 import * as Documentation_Treeview from "./documentation_treeview"
 import * as Sledgehammer_View from "./sledgehammer_view"
 import * as Script_Decorations from "./script_decorations"
+import * as Symbol_Files from "./symbol_files"
 
 
 let last_caret_update: LSP.Caret_Update = {}
@@ -91,9 +92,10 @@ export async function activate(context: ExtensionContext) {
   /* server */
 
   try {
-    const isabelle_home = Library.getenv_strict("ISABELLE_HOME")
-    const isabelle_tool = isabelle_home + "/bin/isabelle"
-    const args = JSON.parse(Library.getenv("ISABELLE_VSCODIUM_ARGS") || "{}")
+    Symbol_Files.setup(context)
+    const isabelle_home = Library.getenv("ISABELLE_HOME")
+    const isabelle_tool = isabelle_home ? isabelle_home + "/bin/isabelle" : "isabelle"
+    const args = JSON.parse(Library.getenv("ISABELLE_VSCODE_ARGS") || "{}")
 
     const server_opts = isabelle_options(args)
     const server_options: ServerOptions =
@@ -105,10 +107,14 @@ export async function activate(context: ExtensionContext) {
 
     const language_client_options: LanguageClientOptions = {
       documentSelector: [
-        { language: "isabelle", scheme: VSCode_Lib.file_scheme },
-        { language: "isabelle-ml", scheme: VSCode_Lib.file_scheme },
+        { language: "isabelle", scheme: Symbol_Files.scheme },
+        { language: "isabelle-ml", scheme: Symbol_Files.scheme },
         { language: "bibtex", scheme: VSCode_Lib.file_scheme }
-      ]
+      ],
+      uriConverters: {
+        code2Protocol: Symbol_Files.protocol_uri,
+        protocol2Code: Symbol_Files.from_protocol_uri
+      }
     }
 
     const language_client =
@@ -133,7 +139,9 @@ export async function activate(context: ExtensionContext) {
       workspace.onDidCloseTextDocument(Decorations.close_document))
 
     language_client.onReady().then(() =>
-      language_client.onNotification(LSP.decoration_type, Decorations.apply_decoration))
+      language_client.onNotification(LSP.decoration_type, decorations =>
+        Decorations.apply_decoration({ ...decorations,
+          uri: Symbol_Files.from_protocol_uri(decorations.uri).toString() })))
 
 
     /* super-/subscript decorations */
@@ -149,8 +157,9 @@ export async function activate(context: ExtensionContext) {
       if (editor) {
         const uri = editor.document.uri
         const cursor = editor.selection.active
-        if (VSCode_Lib.is_file(uri) && cursor)
-          caret_update = { uri: uri.toString(), line: cursor.line, character: cursor.character }
+        if ((VSCode_Lib.is_file(uri) || uri.scheme === Symbol_Files.scheme) && cursor)
+          caret_update = { uri: Symbol_Files.protocol_uri(uri),
+            line: cursor.line, character: cursor.character }
       }
       if (last_caret_update !== caret_update) {
         if (caret_update.uri) {
@@ -181,8 +190,8 @@ export async function activate(context: ExtensionContext) {
       }
 
       if (caret_update.uri) {
-        const uri = Uri.parse(caret_update.uri)
-        workspace.fs.stat(uri).then(
+        const uri = Symbol_Files.from_protocol_uri(caret_update.uri)
+        workspace.fs.stat(Symbol_Files.disk_uri(uri)).then(
           _ => show_file(uri),
           _ => show_file(uri.with({ scheme: "untitled" })))
       }

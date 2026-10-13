@@ -12,6 +12,23 @@ import isabelle._
 
 
 object Component_VSCode {
+  /* symbols for the standalone extension */
+
+  def symbol_entry(entry: Symbol.Entry): JSON.T =
+    JSON.Object(
+      "symbol" -> entry.symbol,
+      "name" -> entry.name,
+      "decoded" -> Symbol.decode(entry.symbol),
+      "argument" -> entry.argument.toString,
+      "groups" -> entry.groups,
+      "abbrevs" -> entry.abbrevs) ++
+    JSON.optional("code", entry.code)
+
+  def make_symbols(): File.Content =
+    File.content(Path.explode("symbols.json"),
+      JSON.Format.pretty_print(
+        Symbol.Symbols.make(File.read(Path.explode("~~/etc/symbols"))).entries.map(symbol_entry)))
+
   /* build grammar */
 
   def build_grammar(options: Options, build_dir: Path,
@@ -254,6 +271,8 @@ val symbol_provider = Symbol_Static
             Isabelle_System.make_directory(build_dir + path.dir))
         }
 
+        make_symbols().write(build_dir)
+
         val fonts_dir = Isabelle_System.make_directory(build_dir + Path.basic("fonts"))
         for (entry <- Isabelle_Fonts.fonts()) { Isabelle_System.copy_file(entry.path, fonts_dir) }
         val manifest_text2 =
@@ -311,7 +330,7 @@ ISABELLE_VSCODE_VSIX="$COMPONENT/""" + vsix_name + "\"\n")
     File.write(component_dir.README,
       """This the Isabelle/VSCode extension as VSIX package
 
-It has been produced from the sources in $ISABELLE_HOME/src/Tools/extension/.
+It has been produced from the sources in $ISABELLE_HOME/src/Tools/VSCode/extension/.
 
 
         Makarius
@@ -339,7 +358,7 @@ Usage: isabelle component_vscode_extension
           quote(Isabelle_System.default_logic()) + """)
 
 Build the Isabelle/VSCode extension as component, for inclusion into the
-local VSCodium configuration.
+an ordinary VS Code or VSCodium installation.
 """,
           "D:" -> (arg => target_dir = Path.explode(arg)),
           "d:" -> (arg => dirs = dirs ::: List(Path.explode(arg))),

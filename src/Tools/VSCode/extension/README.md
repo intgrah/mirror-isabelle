@@ -2,18 +2,21 @@
 
 ## General notes
 
-This is the Isabelle/VSCode extension to connect VSCodium to
-Isabelle/PIDE. The application is invoked via `isabelle vscode` on the
-command-line. It takes care about configuring the extension and user
-settings.
+This extension connects an ordinary VS Code or VSCodium installation to
+Isabelle/PIDE. Install the VSIX and make the `isabelle` executable available
+on `PATH`.
 
-The implementation is centered around the VSCode Language Server
-Protocol (LSP), but there are many add-ons that are specific to
-Isabelle/PIDE. Moreover, there are important patches to the VSCodium
-code-base itself, e.g. to support the UTF-8-Isabelle encoding for
-mathematical symbols and to incorporate the corresponding Isabelle
-fonts. It is unlikely that this extension will with regular VSCode nor
-with any other LSP-based editor.
+The implementation uses the VS Code Language Server Protocol (LSP) with
+Isabelle/PIDE additions. For `.thy`, `.ML`, `.sml`, and `.sig` files, a
+file-system provider shows Isabelle symbols as Unicode in the editor and
+converts them back to `\<name>` form when saving. The original disk file
+remains UTF-8 text with Isabelle symbol escapes. The extension routes
+symbolic files opened from the Explorer into this view automatically and
+passes ordinary file URIs to the Isabelle language server. Other editors
+continue to see the original file content.
+
+Install the Isabelle fonts and select an Isabelle font in VS Code's
+`editor.fontFamily` setting for the full mathematical character set.
 
 Isabelle/VSCode works best when opening an Isabelle project directory
 as a "workspace", with explorer access to the sources.  Afterwards it
